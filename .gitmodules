@@ -1,0 +1,3 @@
+[submodule "godot-jolt"]
+	path = godot-jolt
+	url = https://github.com/godot-jolt/godot-jolt.git
